@@ -16,7 +16,7 @@ Once you are on the Vscode, copy the link of the file and paste it in the vscode
 ## Authors
 
 Metacrafter
-[@yannaarmaza]
+[@claro]
 
 
 ## License
